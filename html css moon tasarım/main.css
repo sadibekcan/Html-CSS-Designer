@@ -1,0 +1,58 @@
+.moon {
+    width: 182px;
+    height: 42.27px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.ulkit2 {
+    background: #4E46B4;
+    color: bisque;
+    border-radius: 100px;
+    font-size: 30px;
+    width: 300px;
+    height: 115px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.moonDesign {
+    font-size: 150px;
+    margin-left: 250px;
+    margin-top: -50px;
+    width: 1099px;
+    height: 552px;
+    left: 150px;
+    top: 300px;
+
+}
+
+.state {
+    position: absolute;
+    left: 720px;
+    top: 680px;
+}
+
+.drop {
+    position: absolute;
+    left: 900px;
+    top: 70px;
+}
+
+.moon-img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.snackbar {
+    position: absolute;
+    top: 130px;
+    right: 80px;
+} 
+
+.popover {
+    position: absolute;
+    top: 280px;
+    right: 50px;
+}
